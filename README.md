@@ -19,7 +19,7 @@ What remains to be done before public opening includes :
 If you feel compelled to join early and help, please reach me at me@walteralmeida.com
 
 
-Generative Objects project is composed of several sub-projects (these are private repository for now) :
+Generative Objects project is composed of several sub-projects (for existing contributors, these are private repositories for now) :
 
 https://github.com/generative-objects-org/go-application
 
