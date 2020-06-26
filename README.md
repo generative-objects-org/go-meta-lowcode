@@ -31,7 +31,7 @@ https://github.com/generative-objects-org/go-codegenerator
 
 https://github.com/generative-objects-org/go-features
 
-https://github.com/generative-objects-orga/go-tools
+https://github.com/generative-objects-org/go-tools
 
 https://github.com/generative-objects-org/go-dsl
 
