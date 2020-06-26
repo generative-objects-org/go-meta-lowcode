@@ -1,29 +1,39 @@
 # generative-objects
 Generative Objects Low-code Platform
 
-Composed of several sub-projects :
+The Generative Objects Low-code Platform open sourcing is on-progress. At the moment, we are opening the github repository to developers who want to join early and help finalizing what needs to be done to publically open source and give access to all. What remains to be done includes :
 
-https://github.com/walteralmeida/go-application
+* partial rewriting of the code generator
+* moving to .NET Core 
+* integrating Postgresql
+* documentation and quickstart guide
 
-https://github.com/walteralmeida/go-framework
+If you feel compelled to help, please reach me at me@walteralmeida.com
 
-https://github.com/walteralmeida/go-codegenerator
 
-https://github.com/walteralmeida/go-features
+Generative Objects project is composed of several sub-projects (these are private repository for now) :
 
-https://github.com/walteralmeida/go-tools
+https://github.com/generative-objects-org/go-application
 
-https://github.com/walteralmeida/go-dsl
+https://github.com/generative-objects-org/go-framework
 
-https://github.com/walteralmeida/go-xlclient
+https://github.com/generative-objects-org/go-codegenerator
 
-https://github.com/walteralmeida/go-gateway
+https://github.com/generative-objects-org/go-features
 
-https://github.com/walteralmeida/go-docker
+https://github.com/generative-objects-orga/go-tools
 
-https://github.com/walteralmeida/go-front-components
+https://github.com/generative-objects-org/go-dsl
 
-https://github.com/walteralmeida/go-front-libs
+https://github.com/generative-objects-org/go-xlclient
+
+https://github.com/generative-objects-org/go-gateway
+
+https://github.com/generative-objects-orga/go-docker
+
+https://github.com/generative-objects-org/go-front-components
+
+https://github.com/generative-objects-org/go-front-libs
 
 
 
