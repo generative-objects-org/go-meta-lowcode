@@ -39,7 +39,7 @@ https://github.com/generative-objects-org/go-xlclient
 
 https://github.com/generative-objects-org/go-gateway
 
-https://github.com/generative-objects-orga/go-docker
+https://github.com/generative-objects-org/go-docker
 
 https://github.com/generative-objects-org/go-front-components
 
