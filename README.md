@@ -1,4 +1,4 @@
-# GO-LowCode
+# GO-LowCode Platform
 GO-LowCode is the open source Low-code Platform initiated by Generative Objects
 
 The GO-LowCode Platform open sourcing is on-progress. At the moment, we are opening the github repository to developers who want to join early and help finalizing what needs to be done to publically open source and give access to all. The public opening is planned for autumn 2020. 
