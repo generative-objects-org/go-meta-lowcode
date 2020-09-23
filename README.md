@@ -1,7 +1,7 @@
-# generative-objects
-Generative Objects Low-code Platform
+# GO-LowCode
+GO-LowCode is the open source Low-code Platform initiated by Generative Objects
 
-The Generative Objects Low-code Platform open sourcing is on-progress. At the moment, we are opening the github repository to developers who want to join early and help finalizing what needs to be done to publically open source and give access to all. The public opening is planned for autumn 2020. 
+The GO-LowCode Platform open sourcing is on-progress. At the moment, we are opening the github repository to developers who want to join early and help finalizing what needs to be done to publically open source and give access to all. The public opening is planned for autumn 2020. 
 
 The Licence will be AGPL-3.0 for the Generative Objects low-code platform and meta-model. However the generated applications are independant from the low-code platform, and will be freely usable as wanted. This means that anyone can use the Generative Objects technology to create commercial applications. However, if improvments are done to the Generative Objects technology itself, these will have to be made public.
 
